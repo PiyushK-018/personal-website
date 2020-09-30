@@ -107,7 +107,7 @@ Parameters include:
 
 Your website comes pre-configured with three topics (e.g. "Web design" and "Sass") that appear in a section titled "My Interests." These are also stored in your repository's `_config.yml` file, where you can define each topic's name and two other optional details:
 
-- `web_url`: The web address you'd like to your topic to link to (e.g. `https://github.com/topics/sass`).
+- `web_url`: The web address you'd like your topic to link to (e.g. `https://github.com/topics/sass`).
 - `image_url`: The web address of an (ideally square) image that you'd like to appear with your topic.
 
 #### Social media
